@@ -1,0 +1,10 @@
+[project]
+name = "guru-shet-portfolio"
+version = "0.1.0"
+description = "A personal portfolio for Guru Shet"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0.6",
+    "streamlit>=1.45.0",
+]
